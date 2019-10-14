@@ -1,0 +1,16 @@
+{
+  "name": "chat.porte-voix",
+  "version": "1.0.0",
+  "description": "Super Easy Terminal Chat (Server & Client)",
+  "scripts": {
+    "server": "./server.sh",
+    "client": "./client.sh"
+  },
+  "author": "Vincent Evrard (vincent@ogre.be)",
+  "license": "ISC",
+  "dependencies": {
+    "wsc": "^0.3.0",
+    "ws": "^7.1.2",
+    "say": "^0.16.0"
+  }
+}

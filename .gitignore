@@ -1,0 +1,4 @@
+email.*
+*.txt
+node_modules/
+app.porte-voix/start.sh

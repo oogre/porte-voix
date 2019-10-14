@@ -1,0 +1,17 @@
+{
+  "name": "app.porte-voix",
+  "version": "1.0.0",
+  "description": "Just a rigourous eMAil reader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^2.7.1",
+    "say": "^0.16.0"
+  },
+  "devDependencies": {}
+}
